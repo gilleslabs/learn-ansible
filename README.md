@@ -52,7 +52,7 @@ Run the commands below:
 3. When the setup is done you will be able to connect to any of the VMs using your favorite ss client and credentials provided in [VMs details] (https://github.com/gilleslabs/learn-ansible#vms-details) 
 
 4. To launch the playbook simply connect to **master** and run the commands below as **root user**:
-```
+	```
 	cd /root
 	ansible-playbook test.yml
 	```

@@ -1,6 +1,6 @@
 # Vagrant learn-ansible
 
-Vagrant learn-oo-studio creates ready-to-go VM for [Ansible] (https://www.ansible.com/) evaluation/testing
+iVagrant learn-oo-studio creates ready-to-go VM for [Ansible] (https://www.ansible.com/) evaluation/testing
 
 The following is an overview of the ready-to-go VMs:
 
